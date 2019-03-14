@@ -7,3 +7,7 @@ this is my IOT pressure station, made in arduino.
 - L7805CV
 - DS3213
 - BMP280
+
+## Dependences
+- Arduino
+- DST1307 lib
